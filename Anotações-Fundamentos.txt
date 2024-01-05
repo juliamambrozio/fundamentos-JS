@@ -1,0 +1,17 @@
+FUNDAMENTOS DO JAVASCRIPT------------------------------------------------------
+
+ativ1: 
+- Math (Operações de matemática)
+- String (Algumas propriedades para manipular string:
+. retorna o caracter da string
+. retorna o lugar do caracter
+. retorna o valor contido no intervalo 
+. concatenação
+. transforma em array
+. transformar tudo em maiúsculo
+TEMPLATE STRING: concatenar de jeito mais prático (`${nome}`)
+. dica: caso a var seja vázio substitua pelo outro valor declarado)
+- Array (Como colocar valor, recuperar, remover valor)
+- Objeto (Como criar um objeto)
+- Null e Undefined (diferença entre "is not defined", undefined, null e 
+vázio)
