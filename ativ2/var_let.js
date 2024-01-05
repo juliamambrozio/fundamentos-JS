@@ -15,3 +15,17 @@ let num1 = 3
 }
 console.log(num1)
 
+
+//VAR E LET COM LOOPING
+
+for(var i = 0; i < 10; i++){
+    console.log(i)
+}
+
+console.log("O valor da var é:" + i) //Como o var não tem o escopo de bloco, ela consegue ter acesso ao resultado final do looping
+
+for(let i = 0; i < 10; i++){
+    console.log(i)
+}
+
+console.log("O valor da var é:" + i) //Não tem acesso ao let, pois ele respeita o escopo do bloco
