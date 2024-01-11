@@ -15,3 +15,11 @@ TEMPLATE STRING: concatenar de jeito mais prático (`${nome}`)
 - Objeto (Como criar um objeto)
 - Null e Undefined (diferença entre "is not defined", undefined, null e 
 vázio)
+ativ2:
+- Function (Função, Arrow Function, Forma mais simples)
+- Var e Let (Diferença entre var e let)
+- Notação ponto (Acessar valores)
+ativ3: 
+- Operador de Atribuição (+=, -=, etc)
+- Operador Destructing (Extrair valores de Objetos e Arrays e colocar em 
+váriaveis de forma mais simplificada)
