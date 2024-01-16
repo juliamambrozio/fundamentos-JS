@@ -23,3 +23,7 @@ ativ3:
 - Operador de Atribuição (+=, -=, etc)
 - Operador Destructing (Extrair valores de Objetos e Arrays e colocar em 
 váriaveis de forma mais simplificada)
+- Operador Lógico (true, false, tipos de operadores (unário, binário e ternário)
+))
+
+
